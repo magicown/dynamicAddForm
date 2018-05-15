@@ -1,5 +1,18 @@
 # dynamicAddForm
 동적으로 필드그룹을 추가하는 스크립트
+
+여러개의 폼필드를 한번에 동적으로 추가하기 위해서 사용되는 스크립트 입니다.
+
+이 스크립트는 한개의 원본 div를 가지고 똑같이 생긴 copy div를 만들어서 copy div를 복사해서 새로 생성하는걸 말합니다.
+
+
+
+
+
+
+
+
+
 //동적으로 폼을 추가하는 곳
 $(document).ready(function(){
     //group add limit
